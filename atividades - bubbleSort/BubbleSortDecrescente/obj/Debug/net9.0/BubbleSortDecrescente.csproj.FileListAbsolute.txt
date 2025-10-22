@@ -1,0 +1,14 @@
+C:\Users\335667\Desktop\atividades\BubbleSortDecrescente\bin\Debug\net9.0\BubbleSortDecrescente.exe
+C:\Users\335667\Desktop\atividades\BubbleSortDecrescente\bin\Debug\net9.0\BubbleSortDecrescente.deps.json
+C:\Users\335667\Desktop\atividades\BubbleSortDecrescente\bin\Debug\net9.0\BubbleSortDecrescente.runtimeconfig.json
+C:\Users\335667\Desktop\atividades\BubbleSortDecrescente\bin\Debug\net9.0\BubbleSortDecrescente.dll
+C:\Users\335667\Desktop\atividades\BubbleSortDecrescente\bin\Debug\net9.0\BubbleSortDecrescente.pdb
+C:\Users\335667\Desktop\atividades\BubbleSortDecrescente\obj\Debug\net9.0\BubbleSortDecrescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\335667\Desktop\atividades\BubbleSortDecrescente\obj\Debug\net9.0\BubbleSortDecrescente.AssemblyInfoInputs.cache
+C:\Users\335667\Desktop\atividades\BubbleSortDecrescente\obj\Debug\net9.0\BubbleSortDecrescente.AssemblyInfo.cs
+C:\Users\335667\Desktop\atividades\BubbleSortDecrescente\obj\Debug\net9.0\BubbleSortDecrescente.csproj.CoreCompileInputs.cache
+C:\Users\335667\Desktop\atividades\BubbleSortDecrescente\obj\Debug\net9.0\BubbleSortDecrescente.dll
+C:\Users\335667\Desktop\atividades\BubbleSortDecrescente\obj\Debug\net9.0\refint\BubbleSortDecrescente.dll
+C:\Users\335667\Desktop\atividades\BubbleSortDecrescente\obj\Debug\net9.0\BubbleSortDecrescente.pdb
+C:\Users\335667\Desktop\atividades\BubbleSortDecrescente\obj\Debug\net9.0\BubbleSortDecrescente.genruntimeconfig.cache
+C:\Users\335667\Desktop\atividades\BubbleSortDecrescente\obj\Debug\net9.0\ref\BubbleSortDecrescente.dll

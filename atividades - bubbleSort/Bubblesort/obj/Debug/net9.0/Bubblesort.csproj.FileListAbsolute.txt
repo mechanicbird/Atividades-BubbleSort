@@ -1,0 +1,14 @@
+C:\Users\335667\Desktop\atividades\Bubblesort\obj\Debug\net9.0\Bubblesort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\335667\Desktop\atividades\Bubblesort\obj\Debug\net9.0\Bubblesort.AssemblyInfoInputs.cache
+C:\Users\335667\Desktop\atividades\Bubblesort\obj\Debug\net9.0\Bubblesort.AssemblyInfo.cs
+C:\Users\335667\Desktop\atividades\Bubblesort\obj\Debug\net9.0\Bubblesort.csproj.CoreCompileInputs.cache
+C:\Users\335667\Desktop\atividades\Bubblesort\bin\Debug\net9.0\Bubblesort.exe
+C:\Users\335667\Desktop\atividades\Bubblesort\bin\Debug\net9.0\Bubblesort.deps.json
+C:\Users\335667\Desktop\atividades\Bubblesort\bin\Debug\net9.0\Bubblesort.runtimeconfig.json
+C:\Users\335667\Desktop\atividades\Bubblesort\bin\Debug\net9.0\Bubblesort.dll
+C:\Users\335667\Desktop\atividades\Bubblesort\bin\Debug\net9.0\Bubblesort.pdb
+C:\Users\335667\Desktop\atividades\Bubblesort\obj\Debug\net9.0\Bubblesort.dll
+C:\Users\335667\Desktop\atividades\Bubblesort\obj\Debug\net9.0\refint\Bubblesort.dll
+C:\Users\335667\Desktop\atividades\Bubblesort\obj\Debug\net9.0\Bubblesort.pdb
+C:\Users\335667\Desktop\atividades\Bubblesort\obj\Debug\net9.0\Bubblesort.genruntimeconfig.cache
+C:\Users\335667\Desktop\atividades\Bubblesort\obj\Debug\net9.0\ref\Bubblesort.dll
